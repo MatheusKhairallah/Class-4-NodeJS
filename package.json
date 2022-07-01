@@ -1,0 +1,22 @@
+{
+  "name": "class-4-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusKhairallah/Class-4-NodeJS.git"
+  },
+  "author": "Matheus Khairallah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusKhairallah/Class-4-NodeJS/issues"
+  },
+  "homepage": "https://github.com/MatheusKhairallah/Class-4-NodeJS#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
